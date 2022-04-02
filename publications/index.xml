@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Rui Lebre</title>
-    <link>https://rlebre.github.io/publications/</link>
+    <link>https://ruilebre.com/academic/publications/</link>
     <description>Recent content in Publications on Rui Lebre</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rlebre.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://ruilebre.com/academic/publications/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

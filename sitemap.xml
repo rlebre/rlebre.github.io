@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rlebre.github.io/</loc>
+    <loc>https://ruilebre.com/academic/</loc>
     <lastmod>2019-09-07T13:14:21+01:00</lastmod>
   </url><url>
-    <loc>https://rlebre.github.io/categories/</loc>
+    <loc>https://ruilebre.com/academic/categories/</loc>
   </url><url>
-    <loc>https://rlebre.github.io/publications/</loc>
+    <loc>https://ruilebre.com/academic/publications/</loc>
     <priority>0.6</priority>
   </url><url>
-    <loc>https://rlebre.github.io/tags/</loc>
+    <loc>https://ruilebre.com/academic/tags/</loc>
   </url>
 </urlset>
